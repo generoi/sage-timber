@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Genero\\Sage\\": "src/"
+      "Genero\\Sage\\Timber\\": "src/"
     }
   },
   "require": {
